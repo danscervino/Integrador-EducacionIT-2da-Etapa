@@ -1,0 +1,18 @@
+{
+"productos": [
+{ "id": 1, "nombre": "Mosquetón OVAL Negro Aluminio", "foto":"img/OVAL XL LOCK BLACK - CARABINER_16.95.webp", "descripcion": "Mosqueton", "precio": 16.95},    
+{ "id": 2, "nombre": "Mosquetón OVAL 3LOCK Acero", "foto":"img/OVAL PRO 3LOCK - CARABINER_17-95.webp", "descripcion": "", "precio": 17.95}, 
+{ "id": 3, "nombre": "Mosquetón ATLAS 3LOCK Aluminio", "foto":"img/ATLAS 3LOCK - CARABINER_25.95.webp", "descripcion": "", "precio": 25.95}, 
+{ "id": 4, "nombre": "Mosquetón D-Plus 3LOCK Acero", "foto":"img/D PLUS 3LOCK - CARABINER_29-95.webp", "descripcion": "", "precio": 29.95}, 
+{ "id": 5, "nombre": "DESCENDER DRUID", "foto":"img/DRUID - DESCENDER_239-95.webp", "descripcion": "", "precio": 239.95}, 
+{ "id": 6, "nombre": "DESCENDER GIANT Negro", "foto":"img/GIANT BLACK - DESCENDER_289.95.webp", "descripcion": "", "precio": 289.95}, 
+{ "id": 7, "nombre": "Polea FLYTE Tirolesa", "foto":"img/FLYTE - PULLEY_159.95.webp", "descripcion": "", "precio": 159.95}, 
+{ "id": 8, "nombre": "CHEST ASCENDER Negro", "foto":"img/TURBOCHEST BLACK - CHEST ASCENDER_99.95.webp", "descripcion": "", "precio": 99.95},    
+{ "id": 9, "nombre": "SWIVEL ENIGMA", "foto":"img/ENIGMA - SWIVEL_179-95.webp", "descripcion": "", "precio": 179.95}, 
+{ "id": 10, "nombre": "SWIVEL ENIGMA Negro", "foto":"img/ENIGMA BLACK - SWIVEL_179-95.webp", "descripcion": "", "precio": 179.95}, 
+{ "id": 11, "nombre": "Mosquetón con giro ENIGMA 3LOCK", "foto":"img/ENIGMA 3LOCK - SWIVELING CONNECTOR_209-95.webp", "descripcion": "", "precio": 209.95}, 
+{ "id": 12, "nombre": "Mosquetón con giro ENIGMA 3LOCK Negro", "foto":"img/ENIGMA 3LOCK BLACK - SWIVELING CONNECTOR_209-95.webp", "descripcion": "", "precio": 209.95}, 
+{ "id": 13, "nombre": "Eslinga TRUCK LOOP Negro", "foto":"img/TRUCK LOOP BLACK - ANCHOR LOOP_27-95_47-95.webp", "descripcion": "", "precio": 27.95}, 
+{ "id": 14, "nombre": "Eslinga EXPRESS FIRE Negro", "foto":"img/EXPRESS FIRE - FIRE RESISTANT LOOP_35-95_69-95.webp", "descripcion": "", "precio": 35.95} 
+]
+}
